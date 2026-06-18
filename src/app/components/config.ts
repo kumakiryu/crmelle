@@ -26,16 +26,16 @@ export const CONFIG = {
 
   // Social links — set to "" to hide
   socials: {
-    github: "https://github.com/",
-    twitter: "https://twitter.com/",
-    instagram: "https://instagram.com/",
+    github: "",
+    twitter: "",
+    instagram: "",
     discord: "", // e.g. "https://discord.com/users/1234567890"
     website: "",
     email: "",
     spotify: "",
     youtube: "",
     twitch: "",
-    tiktok: "",
+    tiktok: "https://www.tiktok.com/@indaycza.gg?_r=1&_t=ZS-97K2OR7VZQY",
   },
 
   // Splash screen text
